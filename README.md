@@ -1,4 +1,5 @@
-# qualitymovement
-A concept against global brands and low quality, and towards local high quality.
+# The Mindful Paddler
 
-A manifesto for a better world!
+A static website to be the home of The Mindful Paddler, a kayaking mindfully movement. 
+
+The site will initially aggregate the social profiles - YouTube channel, twitter feed and facebook posts.
