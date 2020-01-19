@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 
 echo "Testing that the site is running..."
-PAGE=$(curl "https://qualitymovement.org")
+PAGE=$(curl "https://themindfulpaddler.com")
 
-if [[ $PAGE == *"Quality Movement"* ]]
+if [[ $PAGE == *"The Mindful Paddler"* ]]
 then
   echo "
 --------
